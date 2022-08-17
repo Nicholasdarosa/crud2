@@ -3,7 +3,7 @@
 include '../include/functions.php';
 
 
-/** CADASTRA USUARIO USANDO MÉTODO POST
+/** CADASTRA USUARIO USANDO MÉTODO POST   
 POST - http://localhost/crud2/register.php
 Payload (JSON)
 {
